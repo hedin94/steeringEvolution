@@ -1,0 +1,6 @@
+TODO/Ideas
+
+- Modify parameters during run-time
+- Larger area with zoom and navigation
+- Reproduction involving two vehicles
+- Track how long vehicles have survived
